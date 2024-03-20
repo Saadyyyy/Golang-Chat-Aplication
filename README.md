@@ -1,1 +1,1 @@
-# Golang-Chat-Aplication
+# Golang-HTMX-Websocket
